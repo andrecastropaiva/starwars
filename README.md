@@ -13,9 +13,9 @@ The data in this database has been pulled from https://swapi.dev/. As well as 'p
 
 
 ## Project Management
-https://github.com/users/andrecastropaiva/projects/2/views/1
+Project board: https://github.com/users/andrecastropaiva/projects/2/views/1
 
 
 
 ## Other Information
-- My Github: https://github.com/andrecastropaiva
+My Github: https://github.com/andrecastropaiva
