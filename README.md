@@ -12,6 +12,10 @@ The data in this database has been pulled from https://swapi.dev/. As well as 'p
 - Use Test Driven Development (write tests to test code)
 
 
+## Project Management
+https://github.com/users/andrecastropaiva/projects/2/views/1
+
+
 
 ## Other Information
 - My Github: https://github.com/andrecastropaiva
