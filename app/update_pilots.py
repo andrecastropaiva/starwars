@@ -2,7 +2,7 @@ from pprint import pprint
 import pymongo
 import requests
 
-client = pymongo.MongoClient('mongodb://docker:mongopw@localhost:55000')  # connecting pymongo to docker & db
+client = pymongo.MongoClient()  # connecting pymongo to docker & db
 db = client['star_wars']  # adding database where we want to connect to
 characters = db['characters']  # gets the characters' collection from star_wars database
 starships = db['starships']
