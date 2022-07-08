@@ -1,7 +1,7 @@
 import pymongo
 from pprint import pprint
 
-client = pymongo.MongoClient("mongodb://docker:mongopw@localhost:55000/")  # connecting pymongo to docker & db
+client = pymongo.MongoClient('mongodb://docker:mongopw@localhost:55000')  # connecting pymongo to docker & db
 db = client['star_wars']
 
 
