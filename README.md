@@ -7,7 +7,7 @@ The data in this database has been pulled from https://swapi.dev/. As well as 'p
 
 
 ## Requirements
-- Good coding principles (code commenting, follow PEP 8 standards, code readability)
+- Good coding practices (code commenting, follow PEP 8 standards, code readability)
 - Use functional programming (functions) OR object-oriented programming (classes).
 - Use Test Driven Development (write tests to test code)
 
@@ -16,6 +16,3 @@ The data in this database has been pulled from https://swapi.dev/. As well as 'p
 Project board: https://github.com/users/andrecastropaiva/projects/2/views/1
 
 
-
-## Other Information
-My Github: https://github.com/andrecastropaiva
