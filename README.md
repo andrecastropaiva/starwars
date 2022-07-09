@@ -1,4 +1,4 @@
-# Starwars MongoDB - Data Engineering Project
+# Starwars - Data Engineering Project
 
 
 ## Instructions
